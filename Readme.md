@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Иван Кудрявцев](https://up.htmlacademy.ru/htmlcss/31/user/1757807).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Иовлев].(https://htmlacademy.ru/profile/skywalker)    
 
 ---
 
